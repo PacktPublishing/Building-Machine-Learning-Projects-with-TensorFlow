@@ -1,5 +1,5 @@
 #Building Machine Learning Projects with TensorFlow
-This is the code repository for [Building Machine Learning Projects with TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-projects-tensorflow?utm_source=github&utm_medium=repository&utm_campaign=9781786466587), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Building Machine Learning Projects with TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-projects-tensorflow?utm_source=github&utm_medium=repository&utm_campaign=9781786466587), published by [Packt](www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
 ##Instructions and Navigations
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
@@ -7,11 +7,10 @@ All of the code is organized into folders. Each folder starts with a number foll
 
 The code will look like the following:
 ```
-[default]
-exten => s,1,Dial(Zap/1|30)
-exten => s,2,Voicemail(u100)
-exten => s,102,Voicemail(b100)
-exten => i,1,Voicemail(s0)
+>>> import tensorflow as tf 
+>>> tens1 = tf.constant([[[1,2],[2,3]],[[3,4],[5,6]]]) 
+>>> print sess.run(tens1)[1,1,0] 
+5 
 ```
 
 Software Required: Tensorflow 0.10, Jupyter Notebook	
