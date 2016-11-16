@@ -13,8 +13,11 @@ The code will look like the following:
 5 
 ```
 
+
 Software Required: Tensorflow 0.10, Jupyter Notebook	
-Hardware Required: Any x86 computer	
+
+Hardware Required: Any x86 computer
+
 Operating System: Ubuntu Linux 16.04
 
 ##Related Products
