@@ -9,7 +9,7 @@ from sklearn.datasets.samples_generator import make_blobs
 from sklearn.datasets.samples_generator import make_circles
 
 DATA_TYPE = 'blobs'
-
+N=200
 # Number of clusters, if we choose circles, only 2 will be enough
 if (DATA_TYPE == 'circle'):
     K=2
@@ -40,7 +40,7 @@ fig, ax = plt.subplots()
 if (DATA_TYPE == 'blobs'):
 	ax.scatter(np.asarray(centers).transpose()[0], np.asarray(centers).transpose()[1], marker = 'o', s = 250)
 	ax.scatter(data.transpose()[0], data.transpose()[1], marker = 'o', s = 100, c = features, cmap=plt.cm.coolwarm )
-	plt.plot()
+	plt.show()
 
 
 points=tf.Variable(data)
