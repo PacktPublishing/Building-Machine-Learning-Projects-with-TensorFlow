@@ -14,11 +14,18 @@ The code will look like the following:
 ```
 
 
-<b>Software Required</b>: Tensorflow 0.10, Jupyter Notebook	
-
-<b>Hardware Required</b>: Any x86 computer
-
-<b>Operating System</b>: Ubuntu Linux 16.04
+<table>
+  <tr>
+    <th>Software Required</th>
+    <th>Hardware Required</th>
+    <th>Operating System</th>
+  </tr>
+  <tr>
+    <td>Tensorflow 0.10, Jupyter Notebook</td>
+    <td>Any x86 computer</td>
+    <td>Ubuntu Linux 16.04</td>
+  </tr>
+  <table>
 
 ## Related Products
 * [Machine Learning with TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-tensorflow?utm_source=github&utm_medium=repository&utm_campaign=9781786462961)
