@@ -9,6 +9,7 @@ The code will look like the following:
 ```
 >>> import tensorflow as tf 
 >>> tens1 = tf.constant([[[1,2],[2,3]],[[3,4],[5,6]]]) 
+>>> sess = tf.Session()
 >>> print sess.run(tens1)[1,1,0] 
 5 
 ```
