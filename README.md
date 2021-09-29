@@ -29,10 +29,10 @@ The code will look like the following:
   <table>
 
 ## Related Products
-* [Machine Learning with TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-tensorflow?utm_source=github&utm_medium=repository&utm_campaign=9781786462961)
+* [Machine Learning with TensorFlow](https://www.packtpub.com/product/machine-learning-with-tensorflow-1-x/9781786462961)
 
-* [Getting Started with TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-tensorflow?utm_source=github&utm_medium=repository&utm_campaign=9781786468574)
+* [Getting Started with TensorFlow](https://www.packtpub.com/product/getting-started-with-tensorflow/9781786468574)
 
-* [Building Machine Learning Systems with Python - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781784392772)
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
+* [Building Machine Learning Systems with Python - Second Edition](https://www.packtpub.com/product/building-machine-learning-systems-with-python-second-edition/9781784392772)
+
+    
