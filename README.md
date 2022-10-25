@@ -36,3 +36,7 @@ The code will look like the following:
 * [Building Machine Learning Systems with Python - Second Edition](https://www.packtpub.com/product/building-machine-learning-systems-with-python-second-edition/9781784392772)
 
     
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781786466587">https://packt.link/free-ebook/9781786466587 </a> </p>
