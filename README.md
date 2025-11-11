@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.eventbrite.com/e/algorithmic-trading-with-python-cohort-2-tickets-1833367644979?aff=oddtdtcreator'><img src='https://static.packt-cdn.com/assets/images/packt+events/Python_for_Algorithmic Trading_v1.png'/></a></p>
+
 # Building Machine Learning Projects with TensorFlow
 This is the code repository for [Building Machine Learning Projects with TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-projects-tensorflow?utm_source=github&utm_medium=repository&utm_campaign=9781786466587), published by [Packt](https://www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
 ## Instructions and Navigations
